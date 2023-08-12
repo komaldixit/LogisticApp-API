@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: kajal
+Build-Jdk: 18.0.1.1
+Implementation-Title: LogisticApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.logistics
+Implementation-URL: https://spring.io/projects/spring-boot/LogisticApp
+Created-By: Maven Integration for Eclipse
+
